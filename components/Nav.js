@@ -22,7 +22,9 @@ function Nav() {
     <>
       {isLoading && <Loading />}
       <nav className="flex justify-between lg:mt-4 py-2  align-middle items-center 2xl:mx-20 xl:mx-5 lg:mx-8 border border-[#FFFFFF]/[0.16] px-4 xl:px-0 2xl:px-4 rounded-lg bg-[#00000052] z-50">
-        <span className="md:ml-3 ml-1 z-40">Bahrain Business Setup</span>
+        <a href="/" className="md:ml-3 ml-1 z-40">
+          AA Digital Labs
+        </a>
         <div
           className={`lg:static absolute ${
             showCompanyFormation || showRenewalAmendments

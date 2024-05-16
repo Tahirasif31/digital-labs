@@ -7,7 +7,7 @@ const content = [
   {
     title: "About Us",
     description:
-      "Bahrain Business Setup is your premier partner for business formation and tax services in Bahrain. Our expert team navigates the complexities of company formation, ensuring a smooth and efficient process tailored to your needs. From initial consultation to ongoing support, we're dedicated to helping you establish and grow your business with confidence. Let us handle the paperwork while you focus on realizing your entrepreneurial vision. Partner with Bahrain Business Setup today for a seamless and successful business journey.",
+      "Welcome to AA Digital Labs LLC, where innovation meets excellence in web development and digital marketing solutions. With a passion for crafting exceptional online experiences, we specialize in creating dynamic websites and implementing strategic digital marketing campaigns that drive results. Backed by a team of skilled professionals, we thrive on turning visions into reality, empowering businesses to thrive in the digital landscape. Discover the difference with [Company Name] and elevate your online presence today.",
     content: (
       <div className="h-full w-full  flex items-center justify-center text-white">
         <Image
@@ -23,7 +23,7 @@ const content = [
   {
     title: "Our Mission",
     description:
-      "At Bahrain Business Setup, our mission is to empower entrepreneurs and businesses with seamless and efficient solutions for company formation and tax services in Bahrain. We are dedicated to providing expert guidance and support, simplifying the complexities of establishing and managing businesses in the region. Through personalized assistance and a commitment to excellence, we strive to be the trusted partner that enables our clients to achieve their goals and thrive in the competitive business landscape of Bahrain and beyond. With Bahrain Business Setup, success is not just a destination – it's a journey we embark on together.",
+      "At AA Digial Labs LLC, our mission is to revolutionize the digital landscape by delivering unparalleled web development and digital marketing solutions. We strive to empower businesses of all sizes to achieve their online goals by providing cutting-edge technology, innovative strategies, and personalized services. With a commitment to excellence and client satisfaction, we aim to be the driving force behind our clients' success in the ever-evolving digital world. Together, we transform visions into realities, one pixel and click at a time",
     content: (
       <div className="h-full w-full  flex items-center justify-center text-white">
         <Image

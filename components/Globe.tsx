@@ -412,10 +412,10 @@ export function GlobeDemo() {
           className="div"
         >
           <h2 className="text-center text-xl md:text-4xl font-bold text-white ">
-            Secure Your Business Future Now!
+            Secure your business&apos;s future with digital solutions.
           </h2>
           <p className="text-center text-base md:text-lg font-normal text-neutral-200 max-w-md mt-2 mx-auto mb-20 z-50">
-            Schedule Your Formation and Taxation Services on&nbsp;
+            Schedule Your Digital Marketing and Development Services on&nbsp;
             <a
               href={"https://chatwith.io/s/bahrain-business-setup"}
               className="bg-gradient-to-r from-purple-500 to-blue-500 text-transparent bg-clip-text cursor-pointer z-50"

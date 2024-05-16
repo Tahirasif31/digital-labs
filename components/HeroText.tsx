@@ -6,7 +6,7 @@ import Link from "next/link";
 export function HeroText() {
   const words = [
     {
-      text: "Start",
+      text: "Digitalize",
       className: "text-white",
     },
     {
@@ -14,11 +14,11 @@ export function HeroText() {
       className: "text-white",
     },
     {
-      text: "business",
+      text: "business.",
       className: "text-white",
     },
     {
-      text: "with us",
+      text: "Start",
       className: "text-white",
     },
     {
