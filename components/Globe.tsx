@@ -417,7 +417,7 @@ export function GlobeDemo() {
           <p className="text-center text-base md:text-lg font-normal text-neutral-200 max-w-md mt-2 mx-auto mb-20 z-50">
             Schedule Your Digital Marketing and Development Services on&nbsp;
             <a
-              href={"https://chatwith.io/s/bahrain-business-setup"}
+              href={"https://chatwith.io/s/aa-digital-labs"}
               className="bg-gradient-to-r from-purple-500 to-blue-500 text-transparent bg-clip-text cursor-pointer z-50"
             >
               Whatsapp

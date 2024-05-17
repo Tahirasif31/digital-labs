@@ -12,7 +12,7 @@ export function ExpertsTeam() {
             <h1 className="text-4xl font-semibold text-white">
               Discover Your Ultimate <br />
               <span className="text-4xl md:text-[6rem] font-bold mt-1 leading-none">
-                Business Solution Today!
+                Digital Solution Today!
               </span>
             </h1>
           </>
@@ -25,92 +25,92 @@ export function ExpertsTeam() {
 export const users = [
   {
     name: "Manu Arora",
-    designation: "Entity Selection",
-    image: "/tab-1.jpg",
+    designation: "Pay-Per-Click Advertising (PPC)",
+    image: "/tab.jpg",
     badge: "Mentor",
   },
   {
     name: "Sarah Singh",
-    designation: "Tax Planning",
-    image: "/tab-2.jpg",
+    designation: "Mobile App Development",
+    image: "/tab-1.jpg",
     badge: "Mentor",
   },
   {
     name: "John Doe",
-    designation: "Financial Statements",
-    image: "/beh-1.jpg",
+    designation: "Search Engine Optimization (SEO)",
+    image: "/tab-2.jpg",
     badge: "Mentor",
   },
   {
     name: "Jane Smith",
-    designation: "Company Registration",
-    image: "/tab-4.jpg",
+    designation: "Website Design and Development",
+    image: "/tab-3.jpg",
     badge: "Mentor",
   },
   {
     name: "Robert Johnson",
-    designation: "Strategic Planning",
+    designation: "Analytics and Reporting",
+    image: "/tab-4.jpg",
+    badge: "Mentor",
+  },
+  {
+    name: "Emily Davis",
+    designation: "Email Marketing",
     image: "/tab-5.jpg",
     badge: "Mentor",
   },
   {
     name: "Emily Davis",
-    designation: "Financial Analysis",
-    image: "/beh-2.jpg",
+    designation: "Digital Marketing",
+    image: "/tab-6.jpg",
     badge: "Mentor",
   },
   {
     name: "Emily Davis",
-    designation: "Tax Preparation",
+    designation: "UI/UX Design",
     image: "/tab-7.jpg",
     badge: "Mentor",
   },
   {
     name: "Emily Davis",
-    designation: "Business Valuation",
+    designation: "Digital Strategy Consulting",
     image: "/tab-8.jpg",
     badge: "Mentor",
   },
   {
     name: "Emily Davis",
-    designation: "Tax Compliance",
+    designation: "Conversion Rate Optimization (CRO)",
     image: "/tab-9.jpg",
     badge: "Mentor",
   },
   {
     name: "Emily Davis",
-    designation: "Budgeting and Forecasting",
+    designation: "E-commerce Solutions",
     image: "/tab-10.jpg",
     badge: "Mentor",
   },
   {
     name: "Emily Davis",
-    designation: "Succession Planning",
+    designation: "Content Marketing",
     image: "/tab-11.jpg",
     badge: "Mentor",
   },
   {
     name: "Emily Davis",
-    designation: "Regulatory Compliance",
+    designation: "Social Media Marketing (SMM)",
     image: "/tab-12.jpg",
     badge: "Mentor",
   },
   {
     name: "Emily Davis",
-    designation: "Tax Return Filing",
-    image: "/beh-4.jpg",
+    designation: "Custom Software Development",
+    image: "/tab-13.jpg",
     badge: "Mentor",
   },
   {
     name: "Emily Davis",
-    designation: "Tax Dispute Resolution",
-    image: "/beh-7.jpg",
-    badge: "Mentor",
-  },
-  {
-    name: "Emily Davis",
-    designation: "Tax Credits & Incentives",
-    image: "/beh-8.jpg",
+    designation: "Online Reputation Management (ORM)",
+    image: "/tab-14.jpg",
     badge: "Mentor",
   },
 ];

@@ -7,9 +7,9 @@ import { HeroText } from "./HeroText";
 export function Hero() {
   const images = [
     "/digi-1.jpg",
-    "digital-1.jpg",
-    "/digital-5.jpg",
-    "/digital-2.jpg",
+    "new-digital-2.jpg",
+    "/new-digital-3.jpg",
+    "/new-digital-6.jpg",
   ];
   return (
     <ImagesSlider

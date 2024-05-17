@@ -27,7 +27,7 @@ const content = [
     content: (
       <div className="h-full w-full  flex items-center justify-center text-white">
         <Image
-          src="/beh-9.jpg"
+          src="/digi-4.jpg"
           width={300}
           height={300}
           className="h-full w-full object-cover"
