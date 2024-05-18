@@ -6,10 +6,12 @@ import { HeroText } from "./HeroText";
 
 export function Hero() {
   const images = [
-    "/digi-1.jpg",
-    "new-digital-2.jpg",
     "/new-digital-3.jpg",
+
+    "new-digital-2.jpg",
+
     "/new-digital-6.jpg",
+    "/digi-1.jpg",
   ];
   return (
     <ImagesSlider

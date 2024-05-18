@@ -15,19 +15,19 @@ export function BackgroundGradientDemo() {
           className="object-contain lg:max-w-[350px] text-center flex items-center rounded-md "
         />
         <p className="text-base sm:text-xl text-neutral-200 mt-3">
-          Reserve Tax & Business Formation Services Now!
+          Elevate Your Presence: Reach Out Today!
         </p>
 
         <p className="text-sm text-neutral-600 dark:text-neutral-400 mt-1">
-          Secure your tax and business formation needs today with our expert
-          services. Streamlined, reliable, and tailored to your requirements, we
-          ensure peace of mind and compliance
+          Elevate your online presence. Contact us today for expert web
+          development and digital marketing solutions tailored to your needs.
+          Let&apos;s bring your vision to life!
         </p>
         <button className="rounded-full pl-4 pr-1 py-1 text-white flex items-center space-x-1 bg-black mt-4 text-xs font-bold dark:bg-zinc-800">
-          <a href="https://chatwith.io/s/bahrain-business-setup">
+          <a href="https://chatwith.io/s/aa-digital-labs">
             <span>Book now </span>
             <span className="bg-zinc-700 rounded-full text-[0.6rem] px-2 py-0 text-white">
-              BHD 50
+              $100
             </span>
           </a>
         </button>

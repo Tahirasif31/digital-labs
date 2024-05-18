@@ -18,8 +18,8 @@ export function GetQuote() {
     <div className="max-w-md w-full mx-auto rounded-lg md:rounded-2xl p-4 md:p-8 shadow-input bg-black border border-[#FFFFFF]/[0.16]">
       <h2 className="font-bold text-xl text-neutral-200">Book Now</h2>
       <p className="text-sm max-w-sm mt-2 text-neutral-300">
-        Complete form for personalized appointment to address your business
-        formation and taxation requirements.
+        Complete form for personalized appointment to address digital needs of
+        your business.
       </p>
 
       <form className="my-8" onSubmit={handleSubmit}>

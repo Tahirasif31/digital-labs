@@ -18,31 +18,31 @@ export function InfiniteMovingCardsDemo() {
 const testimonials = [
   {
     quote:
-      "Exceptional service! They guided me through every step of setting up my business in Bahrain, making the process smooth and stress-free. Their expertise in taxation ensured that I remained compliant while maximizing my savings",
+      "AA Digital Labs exceeded my expectations with their exceptional web development services. Their attention to detail and prompt communication made the entire process seamless.",
     name: "Ahmed Abdullah Al-Mansoori",
     title: "Manama",
   },
   {
     quote:
-      "بالتأكيد! قدم فريق هذه الشركة لخدمات تأسيس الأعمال والضرائب نصائح غاية في القيمة بخصوص هيكلة شركتي لتحقيق كفاءة ضريبية مثالية. كان احترافهم واهتمامهم بالتفاصيل متفوقًا على توقعاتي",
-    name: "عبدالله صالح الفلاسي",
-    title: "الرفاع ",
+      "Partnering with AA Digital Labs for digital marketing was a game-changer for my business. Their strategic approach and measurable results significantly boosted our online presence.",
+    name: "Paul A.",
+    title: "Tokyo",
   },
   {
     quote:
-      "Trusted partner! I've been using their services for years, and I couldn't be happier. Their knowledgeable team consistently delivers accurate, timely solutions, allowing me to focus on growing my business with confidence. ",
+      "Working with AA Digital Labs was a pleasure. Their web development team demonstrated unparalleled skill and professionalism, delivering a website that perfectly reflects our brand.",
     name: "Zahraat Al-Sayf",
     title: "Isa Town",
   },
   {
     quote:
-      "خبرة مذهلة! فهمهم العميق لقوانين ولوائح الضرائب البحرينية أنقذني وقتًا ومالًا. أنا ممتن لنهجهم الاستباقي في التخطيط الضريبي، مما ضمن أنني كنت دائمًا مستعدًا لأي تغييرات.",
-    name: "خالد علي الحمادي",
-    title: "سترة ",
+      "AA Digital Labs sets the standard for app development excellence. Their innovative solutions and commitment to client satisfaction make them my go-to choice for any project.",
+    name: "Peter",
+    title: "Ottawa, Canada",
   },
   {
     quote:
-      "Top-notch service! Whether it's answering my tax-related queries or assisting with complex business formations, they always go above and beyond. I'm grateful for their professionalism and commitment to excellence",
+      "Choosing AA Digital Labs for digital marketing was one of the best decisions I made for my business. Their expertise and dedication drove impressive results, exceeding all expectations.",
     name: "Fatima Mohammed Al-Hashemi",
     title: "Muharraq",
   },

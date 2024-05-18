@@ -9,26 +9,39 @@ import { LayoutGridDemo } from "@/components/LayoutGrid";
 import QuoteRequest from "./../components/QuoteRequest";
 
 import Loading from "./../components/Loading";
-import LoaderPageTransition from "./../components/LoaderPageTransition";
-const review = [{}];
 
 const SERVICES = [
   {
-    title: "Company Incorporation and Registration",
+    title: "Digital Marketing",
     description:
-      "Streamline your business setup in Bahrain with expert assistance in company incorporation and registration. Navigate legal requirements efficiently and launch your enterprise with confidence.",
+      "Explore our comprehensive suite of digital marketing solutions, including SEO, PPC, social media management, and content creation, designed to elevate your brand's online visibility and drive tangible results",
   },
 
   {
-    title: "Tax Compliance and Reporting",
+    title: "Web Development",
     description:
-      "Expert assistance ensuring timely and accurate tax compliance for businesses in Bahrain. We handle all aspects of tax reporting, filing, and compliance, minimizing risks and optimizing financial efficiency.",
+      "Discover our range of web development services, encompassing responsive design, e-commerce solutions, custom CMS development, and UX/UI optimization, tailored to enhance your online presence.",
   },
 
   {
-    title: "Business Advisory and Consulting",
+    title: "Mobile App Development",
     description:
-      "Strategic business advisory and consulting services offer tailored guidance for financial management, risk assessment, growth strategies, and corporate governance to optimize business performance and achieve organizational goals.",
+      "Unlock the potential of mobile technology with our app development services. From sleek UI/UX designs to robust backend solutions, we craft cutting-edge apps to elevate your presence.",
+  },
+  {
+    title: "Search Engine Optimization",
+    description:
+      "Elevate your online visibility with our SEO services. From keyword research to on-page optimization, we boost your website's ranking and drive organic traffic for sustainable growth and increased conversions",
+  },
+  {
+    title: "Social Media Marketing",
+    description:
+      "Maximize your brand's reach with our social media marketing services. From content creation to audience engagement, we craft tailored strategies to boost your presence and drive meaningful connections.",
+  },
+  {
+    title: "Google Ad Campaign (PPC)",
+    description:
+      "Accelerate your online success with our Google Ad Campaign services. We craft and optimize campaigns to reach your target audience, drive conversions, and maximize your return on investment.",
   },
 ];
 
@@ -66,7 +79,7 @@ export default function Home() {
       <BestService />
       <section>
         <p className="text-[38px] font-[600] text-center">
-          Business Formation Essentials
+          Online Presence Essentials
         </p>
         <LayoutGridDemo />
       </section>

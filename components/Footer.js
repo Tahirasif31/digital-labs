@@ -7,28 +7,26 @@ function Footer() {
     <footer className={`${styles.footer} bg-gray-900`}>
       <div className={styles.container}>
         <div className={styles.join}>
-          <h2 className={styles.logo}>Bahrain Business Setup</h2>
+          <h2 className={styles.logo}>AA Digital Labs</h2>
           <p className={styles.description}>
-            Office Address: Building: 2196 Road: 3640 Block: 436 10th floor,
-            office Number 101 Al Seef, Bahrain.
+            Office Address: 30 N. Gould St. Ste R, Sheridan, WY 82801, USA
           </p>
           <div className={styles.contactContainer}>
             <div className={styles.email}>
               <p className={styles.info}>Email us at</p>
-              <p className={styles.address}>infobkr@bkrgroup.co</p>
+              <p className={styles.address}>info@aadigitallabs.com</p>
             </div>
             <div className={styles.phone}>
               <p className={styles.info}>Call us at</p>
-              <p className={styles.address}>+973 35 61 5033</p>
+              <p className={styles.address}>+1 (307) 200-2803</p>
             </div>
           </div>
         </div>
         <div className={styles.submit}>
           <h2 className={styles.submitTitle}>Let&apos;s Book Appointment!</h2>
           <p className={styles.submitDescription}>
-            eady to take the first step towards a smoother business journey?
-            Submit your quote request today and let us pave the way for your
-            success.
+            Ready to boost your online presence? Contact us today and let&apos;s
+            start amplifying your brand&apos;s digital footprint together!
           </p>
           <div className={styles.icons}>
             <ion-icon name={"logo-facebook"}></ion-icon>

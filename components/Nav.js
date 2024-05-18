@@ -41,7 +41,7 @@ function Nav() {
             <li>
               <a href="/#services">Services</a>
             </li>
-            <li className="relative group">
+            {/* <li className="relative group">
               <span className="text-white cursor-pointer group-hover:text-gray-300">
                 <span className="flex gap-1" onClick={toggleCompanyFormation}>
                   Company Formation
@@ -115,8 +115,8 @@ function Nav() {
                   </span>
                 </Link>
               </div>
-            </li>
-            <li className="relative group">
+            </li> */}
+            {/* <li className="relative group">
               <span className="text-white cursor-pointer group-hover:text-gray-300">
                 <span className="flex gap-1" onClick={toggleRenewalAmendments}>
                   Renewal & Amendments
@@ -157,7 +157,7 @@ function Nav() {
                   </span>
                 </Link>
               </div>
-            </li>
+            </li> */}
             <li>
               <a href="/#contact">Contact</a>
             </li>
